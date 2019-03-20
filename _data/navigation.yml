@@ -1,0 +1,13 @@
+pages:
+  - title: Robot
+    children:
+    - title: Lorem ipsum
+      url: /pages/robot/lorem.html
+    - title: Pellentesque dui justo
+      url: /pages/robot/pellentesque.html
+  - title: Overlords
+    children:
+    - title: Mauris vitae
+      url: /pages/overlords/mauris.html
+    - title: Maecenas nisi mi
+      url: /pages/overlords/maecenas.html
